@@ -1,5 +1,8 @@
 # Photopea Electron
 
+![Banner](images/banner.png)  
+*A 1366x768 banner showcasing Photopea Electron*
+
 An unofficial desktop version of [Photopea](https://www.photopea.com) built with **Electron**.  
 
 This project wraps Photopea in an Electron app with:  
@@ -32,18 +35,6 @@ This project wraps Photopea in an Electron app with:
 *Full Photopea interface in an Electron window*
 
 > ⚠️ Replace these placeholders with your actual screenshots.
-
----
-
-## Features (Work in Progress)
-
-- [x] Full Photopea UI inside a desktop window  
-- [x] Interactive ribbon menu at the top  
-- [x] Custom splash screen and app icon  
-- [x] Lightweight version without ads  
-- [ ] Fast loading bar speed tweaks (placeholder)  
-- [ ] External links open in default browser (placeholder)  
-- [ ] Portable `.exe` version (placeholder)  
 
 ---
 
