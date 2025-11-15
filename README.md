@@ -7,11 +7,9 @@ An unofficial desktop version of [Photopea](https://www.photopea.com) built with
 
 This project wraps Photopea in an Electron app with:  
 
-- Custom splash screen with accent color (#18a497)  
-- Fast loading bar  
+- Fast loading times 
 - Ribbon menu (similar to Photoshop)  
 - Ads removed  
-- External links open in the user’s default browser  
 
 > ⚠️ Note: This is not an official Photopea release. Please respect Photopea's terms of service.
 
